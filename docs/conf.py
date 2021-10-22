@@ -85,7 +85,7 @@ html_theme_options = {
     'menu': [
         {
             'name': 'GitHub',
-            'url': 'https://www.baidu.com/'
+            'url': 'https://github.com/open-mmlab/mmdetection'
         },
         {
             'name':
